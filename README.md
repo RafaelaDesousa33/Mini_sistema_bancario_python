@@ -2,7 +2,7 @@ Mini Sistema Bancário em Python
 
 Este projeto é um sistema bancário simples desenvolvido em Python, permitindo ao usuário realizar operações como depósito, saque e consulta de saldo de maneira prática pelo terminal.
 
-📌 Funcionalidades
+- Funcionalidades
 
 Criar conta bancária (conforme estrutura do código)
 
@@ -16,7 +16,7 @@ Mostrar extrato ou histórico de movimentações
 
 Menu interativo no terminal
 
-🛠️ Tecnologias Utilizadas
+- Tecnologias Utilizadas
 
 Python 3
 
@@ -30,7 +30,7 @@ Estruturas de repetição
 
 Manipulação de variáveis
 
-▶️ Como executar o projeto
+- Como executar o projeto
 
 Certifique-se de ter o Python 3 instalado.
 Verifique com:
@@ -52,7 +52,7 @@ Execute o script principal (ajuste o nome se necessário):
 
 python main.py
 
-📄 Exemplo de Uso
+- Exemplo de Uso
 
 O menu apresenta opções como:
 
@@ -65,7 +65,7 @@ O menu apresenta opções como:
 
 E o sistema responde conforme a operação escolhida.
 
-📚 Aprendizados Envolvidos
+- Aprendizados Envolvidos
 
 Este projeto fortalece conhecimentos importantes:
 
@@ -79,7 +79,7 @@ Organização de código
 
 Pensamento estruturado aplicado a problemas reais
 
-🚀 Possíveis Melhorias Futuras
+- Possíveis Melhorias Futuras
 
 Adicionar autenticação (login / senha)
 
@@ -97,12 +97,6 @@ Migrar para API usando Flask ou FastAPI
 
 Adicionar testes automatizados
 
-👩‍💻 Autora
-
-Rafaela de Sousa
-Desenvolvedora Back-End em formação.
-
-⭐ Contribuições
 
 Sugestões e melhorias são bem-vindas!
 Sinta-se à vontade para abrir issues ou enviar pull requests.
